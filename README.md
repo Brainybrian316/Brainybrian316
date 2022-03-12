@@ -22,7 +22,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="right" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="100%" height="400" /></a>
 &nbsp;
 
-place holder text dfjaskdfjdsakjdkjfakdjakfjalafkjdss jdfkadj d fs fds.  d fas djfksjfksa sajfdksjdfasdkj. disfas divjdsa vkdsjvks aldjfads kvjdsljsdk sjdkjf skfj asdjfdkasfjdasfk adjkf sajdkf jsk sadfjdaks fksd fjasdkf jkasldjf saidkfj kahsdfk askds jfak ds fhas khds fhask dskfh askdhsf ksadfj sdfkj skj dskf jsahsdkf sh
+Mission-driven full-stack web developer & Educator with a passion for thoughtful UI effects, collaboration, and teaching.
 
 ## My Stats
 
