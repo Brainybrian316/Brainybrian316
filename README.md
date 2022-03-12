@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-<h4 align="left">My Languages:</h3>
+<h3 align="left">My Languages:</h3>
 <p align="left">
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h4 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   
  <a href="https://discord.gg/xd4vEjPs" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -36,7 +36,7 @@ place holder text dfjaskdfjdsakjdkjfakdjakfjalafkjdss jdfkadj d fs fds.  d fas d
   
   
 ### Watch my contribution graph get eaten by the snake 🐍
-![@mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![@mishmanners snake gif](https://github.com/Brainybrian316/MishManners/blob/output/github-contribution-grid-snake.svg)
   
   ### Favorite Resources
   
