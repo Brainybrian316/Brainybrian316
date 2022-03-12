@@ -37,7 +37,7 @@ place holder text dfjaskdfjdsakjdkjfakdjakfjalafkjdss jdfkadj d fs fds.  d fas d
   
 ### Watch my contribution graph get eaten by the snake 🐍
   
-  ![Snake animation](https://github.com/Brainybrian316/Brainybrian316/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Brainybrian316/Brainybrian316/blob/output/github-contribution-grid-snake.gif)
   
   ### Favorite Resources
   
