@@ -16,10 +16,11 @@
  <a href="https://www.linkedin.com/in/brainybrian316/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCSOQYGSwSQ-DvMlx4BtAONA/featured" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="url-redirect" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+   <a href="https://docs.google.com/document/d/1PeP8jPx4ct_WFCPPNeYYgJaiSRx9p8il5QjwZ7s0wbQ/edit?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
 
 
 
-<a href="URL_REDIRECT" target="blank"><img align="right" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="100%" height="400" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="left" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="200" height="100" /></a>
 &nbsp;
 
 Mission-driven full-stack web developer & Educator with a passion for thoughtful UI effects, collaboration, and teaching.
@@ -27,12 +28,9 @@ Mission-driven full-stack web developer & Educator with a passion for thoughtful
 ## My Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Brainybrian316&show_icons=true&theme=tokyonight)
-  
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainybrian316&langs_count=8&card_width=495&theme=tokyonight)](https://github.com/Brainybrian316)  
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrainyBrian316&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brainybrian316&theme=tokyonight&row=2&column=3)](https://github.com/Brainybrian316/github-profile-trophy)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainybrian316&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/Brainybrian316)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brainybrian316&theme=tokyonight)](https://github.com/Brainybrian316/github-profile-trophy)
   
   
 ### Watch my contribution graph get eaten by the snake 🐍
