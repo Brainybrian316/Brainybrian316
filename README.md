@@ -19,14 +19,30 @@
    <a href="https://docs.google.com/document/d/1PeP8jPx4ct_WFCPPNeYYgJaiSRx9p8il5QjwZ7s0wbQ/edit?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
   <a href="mailto:brainybrian316@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://medium.com/@brainybrian316" target="blank"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+  ## About
+  <a href="URL_REDIRECT" target="blank"><img align="left" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="200" height="100" styl /></a>
   
+  <p>Mission-driven full-stack Web Developer & Educator with a passion for thoughtful UI, collaboration, and teaching. Recently earned a certificate in Full Stack development from the University of Central Florida. Continually honing the skills learned at UCF such as HTML, CSS, JavaScript, React.js, and more, while expanding my knowledge by learning new skills like Angular and Python. 
 
+An innovative problem-solver with a passion for developing apps. I am continuing my studies by expanding into IOS development. My goal and desire are to leave my mark in the tech world whether that be through open source contributions, project tutorials, and of course the career opportunities I endeavor in. 
 
+What I bring to every project:
+ 
+• Problem-solving skills and perseverance
+• An understanding of UX/UI principles
+• Creativity and passion
+• Dedication to teamwork and flexible collaboration
+• Foundational knowledge of agile software development principles
 
-<a href="URL_REDIRECT" target="blank"><img align="left" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="200" height="100" /></a>
-&nbsp;
+I am excited to leverage my skills in the future as part of a quality-driven team. Let's connect and chat about our next project.
 
-Mission-driven full-stack web developer & Educator with a passion for thoughtful UI effects, collaboration, and teaching.
+TECHNICAL SKILLS
+Languages: HTML, CSS, JavaScript,
+Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js) jQuery, Bootstrap, Firebase, MySQL
+Core Concepts: Security and Session Storage, User Authentication, Responsive Design, Cookies, Local Storage
+</p>
+
 
 ## My Stats
 
