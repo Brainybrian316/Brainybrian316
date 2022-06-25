@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
-<h3 align="left">My Languages:</h3>
+<h3 align="left">Technical Skills:</h3>
 <p align="left">
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,28 +21,23 @@
     <a href="https://medium.com/@brainybrian316" target="blank"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
   ## About
-  <a href="URL_REDIRECT" target="blank"><img align="left" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="200" height="100" styl /></a>
+  <a href="URL_REDIRECT" target="blank"><img align="right" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="200" height="100" /></a>
   
-  <p>Mission-driven full-stack Web Developer & Educator with a passion for thoughtful UI, collaboration, and teaching. Recently earned a certificate in Full Stack development from the University of Central Florida. Continually honing the skills learned at UCF such as HTML, CSS, JavaScript, React.js, and more, while expanding my knowledge by learning new skills like Angular and Python. 
+  <p> Mission-driven full-stack Web Developer & Educator with a passion for thoughtful UI, collaboration, and teaching. Recently earned a certificate in Full Stack development from the University of Central Florida. Continually honing the skills learned at UCF such as HTML, CSS, JavaScript, React.js, and more, while expanding my knowledge by learning new skills like Angular and Python. 
 
 An innovative problem-solver with a passion for developing apps. I am continuing my studies by expanding into IOS development. My goal and desire are to leave my mark in the tech world whether that be through open source contributions, project tutorials, and of course the career opportunities I endeavor in. 
 
 What I bring to every project:
- 
-• Problem-solving skills and perseverance
-• An understanding of UX/UI principles
-• Creativity and passion
-• Dedication to teamwork and flexible collaboration
-• Foundational knowledge of agile software development principles
+ <ul>
+   <li> Problem-solving skills and perseverance </li>
+   <li> An understanding of UX/UI principles </li>
+   <li> Creativity and passion </li>
+   <li> Dedication to teamwork and flexible collaboration </li>
+   <li> Foundational knowledge of agile software development principles </li>
+ </ul>
 
 I am excited to leverage my skills in the future as part of a quality-driven team. Let's connect and chat about our next project.
-
-TECHNICAL SKILLS
-Languages: HTML, CSS, JavaScript,
-Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js) jQuery, Bootstrap, Firebase, MySQL
-Core Concepts: Security and Session Storage, User Authentication, Responsive Design, Cookies, Local Storage
 </p>
-
 
 ## My Stats
 
