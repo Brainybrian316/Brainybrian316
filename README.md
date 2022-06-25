@@ -52,6 +52,7 @@
 ![Regex](https://img.shields.io/badge/Regex-F38020.svg?style=for-the-badge&logo=&logoColor=white)
 ![MySQL2](https://img.shields.io/badge/MySQL2-00C300.svg?style=for-the-badge&logo=&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)
   
  <h5>Core Concepts:</h5>
   
@@ -65,7 +66,6 @@
 ![RESTful Architecture](https://img.shields.io/badge/RESTful%20Architecture-FF6A00?style=for-the-badge&logo=&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-0078d7.svg?style=for-the-badge&logo=&logoColor=white)
 ![Security and Session Storage](https://img.shields.io/badge/Session%20And%20Security%20Storage-0078d7.svg?style=for-the-badge&logo=&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)
 ***
   
   ## About
