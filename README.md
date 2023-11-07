@@ -90,11 +90,18 @@ I am excited to leverage my skills in the future as part of a quality-driven tea
 
 ## My Stats
 
-![My GitHub stats](https://github-readme-stats-nine-tan-40.vercel.app/api?username=Brainybrian316&show_icons=true&count_private=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BrainyBrian316&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-[![My Top Langs](https://github-readme-stats-nine-tan-40.vercel.app/api/top-langs/?username=Brainybrian316&langs_count=8&theme=tokyonight&layout=compact&count_private=true)](https://github.com/Brainybrian316)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brainybrian316&theme=tokyonight&count_private=true)](https://github.com/Brainybrian316/github-profile-trophy)
-  
+<!-- GitHub stats -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Brainybrian316&show_icons=true&count_private=true&theme=tokyonight)
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brainybrian316&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- Top languages -->
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainybrian316&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/Brainybrian316)
+
+<!-- GitHub Profile Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brainybrian316&theme=tokyonight)](https://github.com/Brainybrian316/github-profile-trophy)
+
   
 ### Watch my contribution graph get eaten by the snake 🐍
   
