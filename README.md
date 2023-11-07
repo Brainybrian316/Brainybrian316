@@ -94,7 +94,7 @@ I am excited to leverage my skills in the future as part of a quality-driven tea
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Brainybrian316&show_icons=true&count_private=true&theme=tokyonight)
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brainybrian316&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Brainybrian316)](https://git.io/streak-stats)
 
 <!-- Top languages -->
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainybrian316&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/Brainybrian316)
