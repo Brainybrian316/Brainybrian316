@@ -100,11 +100,7 @@ I am excited to leverage my skills in the future as part of a quality-driven tea
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brainybrian316&theme=tokyonight)](https://github.com/Brainybrian316/github-profile-trophy)
 
   
-### Watch my contribution graph get eaten by the snake 🐍
-  
-  ![Snake animation](https://github.com/Brainybrian316/Brainybrian316/blob/output/github-contribution-grid-snake.gif)
-  
-  ### Favorite Resources
+### Favorite Resources
   
   ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
   ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
